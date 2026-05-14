@@ -4,14 +4,14 @@ Public portfolio of graduate-level projects in causal inference, Bayesian modeli
 
 ## Featured Projects
 
-### CS166 Final Project: Social Network Simulation of Isolation and Algorithmic Exposure
+### Modeling the Male Loneliness Epidemic via Social Networks and Algorithmic Exposure
 Built an agent-based Monte Carlo simulation on weighted social networks to study the feedback loop between social isolation, recommendation systems, ideological drift, and friendship decay. The project compares interventions that reduce harmful algorithmic amplification and strengthen corrective social support.
 
-- Notebook: [CS166_final_codebook.ipynb](cs166-social-network-simulation/CS166_final_codebook.ipynb)
-- Report: [CS166_final_report_with_figures.pdf](cs166-social-network-simulation/CS166_final_report_with_figures.pdf)
-- Simulation preview: [simulation.gif](cs166-social-network-simulation/simulation.gif)
+- Notebook: [CS166_final_codebook.ipynb](male-loneliness-epidemic-simulation/CS166_final_codebook.ipynb)
+- Report: [CS166_final_report_with_figures.pdf](male-loneliness-epidemic-simulation/CS166_final_report_with_figures.pdf)
+- Simulation preview: [simulation.gif](male-loneliness-epidemic-simulation/simulation.gif)
 
-![Simulation preview](cs166-social-network-simulation/simulation.gif)
+![Simulation preview](male-loneliness-epidemic-simulation/simulation.gif)
 
 ### Causal Inference
 Applies experimental and observational causal inference methods to estimate treatment effects. The notebook covers randomized evaluation, matching, instrumental variables, and synthetic control, including an analysis of job-training outcomes and a synthetic-control study of the California drought's effect on crime.
